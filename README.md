@@ -18,8 +18,13 @@ Key learnings: While writing the program i was able to learn many new things lik
 1. How the temperature conversion happens in different units.
 2. The mathematical background of it.
 3. Improve my coding knowledge.
+# CODE
+
+![image](https://github.com/Bhandariji-Suraj/PRODIGY_SD_01/assets/148539006/2425a17a-096d-4854-80dc-8f2e0a01027b)
+
 
 # OUTPUT
+
 ![image](https://github.com/Bhandariji-Suraj/PRODIGY_SD_01/assets/148539006/4a69f898-99a7-45bb-b020-24d379ed2dcf)
 
 # Task 2: Create a Guessing game.
