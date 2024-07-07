@@ -19,6 +19,8 @@ Key learnings: While writing the program i was able to learn many new things lik
 2. The mathematical background of it.
 3. Improve my coding knowledge.
 
+# OUTPUT
+![image](https://github.com/Bhandariji-Suraj/PRODIGY_SD_01/assets/148539006/4a69f898-99a7-45bb-b020-24d379ed2dcf)
 
 # Task 2: Create a Guessing game.
 
