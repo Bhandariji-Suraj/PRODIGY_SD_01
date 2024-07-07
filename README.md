@@ -14,7 +14,7 @@ In this program, i am going to write a code for converting the units of measurem
 
 Technologies used: C++
 
-Key learningS: While writing the program i was able to learn many new things like:
+Key learnings: While writing the program i was able to learn many new things like:
 1. How the temperature conversion happens in different units.
 2. The mathematical background of it.
 3. Improve my coding knowledge.
