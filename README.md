@@ -28,7 +28,7 @@ Key learnings: While writing the program i was able to learn many new things lik
 ![image](https://github.com/Bhandariji-Suraj/PRODIGY_SD_01/assets/148539006/4a69f898-99a7-45bb-b020-24d379ed2dcf)
 
 
--------------------------------------------------------------------------------COMPLETED-------------------------------------------------------------------------------------
+-----------------------------------------------------------------COMPLETED---------------------------------------------------------------------
 
 # Task 2: Create a Guessing game.
 In this program, i am going to write a code for building a number game where user have to guess the correct number.The number of guesses are tracked and finally on right guess the user can check how many rounds it took fo him to guess the right number.
@@ -48,5 +48,5 @@ Key learnings: While writing the program i was able to learn many new things lik
 
 ![image](https://github.com/Bhandariji-Suraj/PRODIGY_SD_01/assets/148539006/cdd3cbc5-869c-42d1-8116-2455b58cf1b5)
 
--------------------------------------------------------------------------------COMPLETED-------------------------------------------------------------------------------------
+-----------------------------------------------------------------COMPLETED---------------------------------------------------------------------
 
